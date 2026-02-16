@@ -1,3 +1,5 @@
+// Student.java
+// Demonstrates Inheritance, Encapsulation and Polymorphism
 public class Student extends Person {
 
     private int studentId;
@@ -52,3 +54,4 @@ public class Student extends Person {
         System.out.println("--------------------------");
     }
 }
+
