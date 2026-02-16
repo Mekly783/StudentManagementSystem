@@ -1,4 +1,5 @@
-// Abstract class demonstrating Abstraction
+// Person.java
+// Demonstrates Abstraction in OOP
 public abstract class Person {
 
     protected String name;
@@ -17,3 +18,4 @@ public abstract class Person {
 
     public abstract void displayDetails();
 }
+
