@@ -1,3 +1,5 @@
+// Main class
+// Handles user input and runs the application
 import java.util.Scanner;
 
 public class StudentManagementSystem {
@@ -27,3 +29,4 @@ public class StudentManagementSystem {
         input.close();
     }
 }
+
